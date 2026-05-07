@@ -1,4 +1,4 @@
-[психушка 2.0.html](https://github.com/user-attachments/files/27494650/2.0.html)
+
 <!DOCTYPE html>
 <html lang="uk">
 <head>
